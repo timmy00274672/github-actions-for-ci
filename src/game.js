@@ -49,3 +49,4 @@ export default class Game {
             (b[0][2] !== null && b[0][2] === b[1][1] && b[0][2] === b[2][0]))
   }
 }
+ 
